@@ -59,7 +59,7 @@ Una herramienta profesional de análisis comparativo diseñada para evaluar el r
 
 | Algoritmo | Enfoque | Fortaleza | Ideal para |
 | :--- | :--- | :--- | :--- |
-| **Dijkstra** | Greedy (voraz) | Velocidad extrema ($O(E + V \log V)$) | Redes de transporte, GPS |
+| **Dijkstra** | Greedy (voraz) | Velocidad extrema O(E + V log V) | Redes de transporte, GPS |
 | **Bellman-Ford (SPFA)** | Prog. dinámica | Robustez y detección de ciclos | Finanzas, redes con subsidios |
 
 ---
