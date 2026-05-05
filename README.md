@@ -25,16 +25,16 @@ Una herramienta profesional de análisis comparativo diseñada para evaluar el r
 ## 📦 Estructura del proyecto
 
 ```text
-├── ui.py                # Punto de entrada principal (GUI)
+├── Manual/              # Manual de usuario con sus capturas y explicaciones
+├── assets/              # Iconos del software
 ├── algoritmos.py        # Fachada y lógica de despacho de algoritmos
-├── dijkstra.py          # Implementación híbrida de Dijkstra
 ├── bellman_ford.py      # Optimización SPFA (Shortest Path Faster Algorithm)
 ├── benchmark.py         # Lógica de medición de tiempo y memoria (aislamiento)
-├── generador.py         # Generación de grafos estocásticos y conectividad
+├── crop_icons.py        # Importación de íconos
+├── dijkstra.py          # Implementación híbrida de Dijkstra
 ├── exportador.py        # Generación de reportes PDF
-├── assets/              # Iconos del software
-└── Manual/              # Manual de usuario con sus capturas y explicaciones
-└── crop_icons.py        # Importación de íconos
+├── generador.py         # Generación de grafos estocásticos y conectividad
+└── ui.py                # Punto de entrada principal (GUI) 
 ```
 
 ## ⚙️ Instalación y uso
