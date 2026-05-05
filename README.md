@@ -34,6 +34,7 @@ Una herramienta profesional de análisis comparativo diseñada para evaluar el r
 ├── exportador.py        # Generación de reportes PDF
 ├── assets/              # Iconos del software
 └── Manual/              # Manual de usuario con sus capturas y explicaciones
+└── crop_icons.py        # Importación de íconos
 ```
 
 ## ⚙️ Instalación y uso
